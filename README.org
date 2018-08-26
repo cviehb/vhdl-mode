@@ -1,7 +1,7 @@
 * vhdl-mode
 
 The Repository contains the source of the newest available vhdl-mode. Done by the maintainer Reto Zimmermann. 
-((https://guest.iis.ee.ethz.ch/~zimmi/emacs/vhdl-mode.html)(Source-URL))
+[[https://guest.iis.ee.ethz.ch/~zimmi/emacs/vhdl-mode.html][Source-URL]]
 
 ** Why located here?
 
